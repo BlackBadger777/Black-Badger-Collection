@@ -6,7 +6,7 @@
     "minimum": "11",
     "verified": "11"
   },
-  "esmodules": ["scripts/template-removal.mjs"],
+  "esmodules": ["scripts/template-removal.mjs"], ["scripts/booming-blade.mjs"]
   "url": "https://github.com/BlackBadger777/Black-Badger-s-Template-Removal",
   "manifest": "https://github.com/BlackBadger777/Black-Badger-s-Template-Removal/releases/latest/download/module.json",
   "download": "https://github.com/BlackBadger777/Black-Badger-s-Template-Removal/releases/download/v1.0.0/module.zip"
