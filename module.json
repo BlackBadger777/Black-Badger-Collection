@@ -1,7 +1,7 @@
 {
   "id": "black-badgers-template-removal",
   "title": "Black Badger's Template Removal",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "compatibility": {
     "minimum": "11",
     "verified": "12"
@@ -11,5 +11,5 @@
   ],
   "url": "https://github.com/BlackBadger777/Black-Badger-s-Template-Removal",
   "manifest": "https://github.com/BlackBadger777/Black-Badger-s-Template-Removal/releases/latest/download/module.json",
-  "download": "https://github.com/BlackBadger777/Black-Badger-s-Template-Removal/releases/download/v1.4.0/module.zip"
+  "download": "https://github.com/BlackBadger777/Black-Badger-s-Template-Removal/releases/download/v1.5.0/module.zip"
 }
